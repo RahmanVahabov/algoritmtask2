@@ -1,0 +1,15 @@
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/bin/Debug/net6.0/algoritmtask2
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/bin/Debug/net6.0/algoritmtask2.deps.json
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/bin/Debug/net6.0/algoritmtask2.runtimeconfig.json
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/bin/Debug/net6.0/algoritmtask2.dll
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/bin/Debug/net6.0/algoritmtask2.pdb
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/obj/Debug/net6.0/algoritmtask2.csproj.AssemblyReference.cache
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/obj/Debug/net6.0/algoritmtask2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/obj/Debug/net6.0/algoritmtask2.AssemblyInfoInputs.cache
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/obj/Debug/net6.0/algoritmtask2.AssemblyInfo.cs
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/obj/Debug/net6.0/algoritmtask2.csproj.CoreCompileInputs.cache
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/obj/Debug/net6.0/algoritmtask2.dll
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/obj/Debug/net6.0/refint/algoritmtask2.dll
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/obj/Debug/net6.0/algoritmtask2.pdb
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/obj/Debug/net6.0/algoritmtask2.genruntimeconfig.cache
+/Users/rehmanvahabov/codeacademy/algoritmtask2/algoritmtask2/obj/Debug/net6.0/ref/algoritmtask2.dll
